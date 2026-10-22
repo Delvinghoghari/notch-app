@@ -3,7 +3,7 @@
 <h1 align="center">NotchPop</h1>
 <p align="center"><b>A Dynamic-Island-style pop-up for any Android phone.</b><br>Free, no ads, no account.</p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/Delvinghoghari/maxico-app/main/NotchPop.apk"><b>⬇ Download NotchPop.apk</b></a></p>
+<p align="center"><a href="https://github.com/Delvinghoghari/notch-app/releases/latest/download/NotchPop.apk"><b>⬇ Download NotchPop.apk</b></a></p>
 
 ## What it does
 
